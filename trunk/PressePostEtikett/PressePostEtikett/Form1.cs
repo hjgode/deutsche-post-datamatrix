@@ -1,5 +1,5 @@
 ﻿//#define EMULATOR
-//use the above for testing the app in an emulator
+//use the above for testing the app in an emulator or on a device without BarcodeReader
 using System;
 using System.Linq;
 using System.Collections.Generic;
